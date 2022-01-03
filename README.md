@@ -16,7 +16,7 @@ Web app made with streamlit. Sales analysis on the given dataset and visualizati
 * Streamli
 * Ploty
 
-* Instalación / Installation
+# Instalación / Installation
 
 1 - Descargar el repo.
 
