@@ -13,7 +13,7 @@ Web app made with streamlit. Sales analysis on the given dataset and visualizati
 # Libraries
 * Numpy
 * Pandas
-* Streamli
+* Streamlit
 * Ploty
 
 # Instalación / Installation
